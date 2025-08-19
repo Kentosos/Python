@@ -1,4 +1,2 @@
 
-def say_hi():
-    print('hello')
-
+Simon says shut up
