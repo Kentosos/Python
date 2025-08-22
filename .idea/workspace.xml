@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5283a26-0b11-4e37-b427-34f9909a4e55" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/py.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,10 +35,12 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.firstcalculator.executor": "Run",
+    "Python.learn.executor": "Run",
     "Python.limbo.executor": "Run",
     "Python.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/cex/PycharmProjects/PythonProject1",
     "settings.editor.selected.configurable": "preferences.lookFeel"
