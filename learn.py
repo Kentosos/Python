@@ -1,2 +1,0 @@
-
-Simon says shut up
