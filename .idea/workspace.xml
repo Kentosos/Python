@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5283a26-0b11-4e37-b427-34f9909a4e55" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/genius/apitest.py" beforeDir="false" afterPath="$PROJECT_DIR$/genius/apitest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +35,16 @@
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Python tests.Python tests for geniusls1.test_add.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in apitest.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in geniusls1.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.apitest.executor&quot;: &quot;Run&quot;,
     &quot;Python.firstcalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for.executor&quot;: &quot;Run&quot;,
     &quot;Python.guess_game.executor&quot;: &quot;Run&quot;,
     &quot;Python.learn.executor&quot;: &quot;Run&quot;,
     &quot;Python.limbo.executor&quot;: &quot;Run&quot;,
     &quot;Python.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.snake.executor&quot;: &quot;Run&quot;,
     &quot;Python.while.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
@@ -50,7 +52,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;python&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/cex/PycharmProjects/PythonProject1&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">

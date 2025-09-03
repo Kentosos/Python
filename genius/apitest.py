@@ -1,7 +1,6 @@
-from http.client import responses
+from calcGen import add
 
-import requests
+def test_add1():
+    assert add(1, 2) == 3
+    assert add(2, 3) == 5
 
-def test_1:
-    response = requests.get('https://www.google.com')
-    assert response.status_code == 200
